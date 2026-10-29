@@ -1,0 +1,86 @@
+[
+  {
+    "id": "gdg-01",
+    "nama": "iPhone 11 64GB",
+    "harga": 4800000,
+    "foto": "https://picsum.photos/seed/gadget1/600/450",
+    "info": "Baterai 85% · Fullset · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-02",
+    "nama": "iPhone XR 128GB",
+    "harga": 3900000,
+    "foto": "https://picsum.photos/seed/gadget2/600/450",
+    "info": "Baterai 82% · Mulus · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-03",
+    "nama": "Samsung Galaxy A52 8/128GB",
+    "harga": 2900000,
+    "foto": "https://picsum.photos/seed/gadget3/600/450",
+    "info": "Fullset · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-04",
+    "nama": "Xiaomi Redmi Note 10 4/64GB",
+    "harga": 1650000,
+    "foto": "https://picsum.photos/seed/gadget4/600/450",
+    "info": "Mulus · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-05",
+    "nama": "OPPO Reno 5 8/128GB",
+    "harga": 2400000,
+    "foto": "https://picsum.photos/seed/gadget5/600/450",
+    "info": "Fullset · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-06",
+    "nama": "Vivo V21 8/128GB",
+    "harga": 2600000,
+    "foto": "https://picsum.photos/seed/gadget6/600/450",
+    "info": "Mulus · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-07",
+    "nama": "Realme 8 6/128GB",
+    "harga": 1850000,
+    "foto": "https://picsum.photos/seed/gadget7/600/450",
+    "info": "Fullset · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-08",
+    "nama": "Samsung Galaxy S21 8/128GB",
+    "harga": 4500000,
+    "foto": "https://picsum.photos/seed/gadget8/600/450",
+    "info": "Mulus · Garansi toko 1 bulan"
+  },
+  {
+    "id": "gdg-09",
+    "nama": "MacBook Air M1 8/256GB",
+    "harga": 9800000,
+    "foto": "https://picsum.photos/seed/gadget9/600/450",
+    "info": "Cycle 120 · Garansi toko 3 bulan"
+  },
+  {
+    "id": "gdg-10",
+    "nama": "Lenovo ThinkPad T480 i5 8/256GB",
+    "harga": 4900000,
+    "foto": "https://picsum.photos/seed/gadget10/600/450",
+    "info": "Windows 11 · Garansi toko 3 bulan"
+  },
+  {
+    "id": "gdg-11",
+    "nama": "Asus VivoBook 14 Ryzen 5 8/512GB",
+    "harga": 5700000,
+    "foto": "https://picsum.photos/seed/gadget11/600/450",
+    "info": "Mulus · Garansi toko 3 bulan"
+  },
+  {
+    "id": "gdg-12",
+    "nama": "iPad 9 64GB WiFi",
+    "harga": 3900000,
+    "foto": "https://picsum.photos/seed/gadget12/600/450",
+    "info": "Baterai 90% · Garansi toko 1 bulan"
+  }
+]

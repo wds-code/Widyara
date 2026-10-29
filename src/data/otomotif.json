@@ -1,0 +1,86 @@
+[
+  {
+    "id": "oto-01",
+    "nama": "Toyota Avanza 1.3 G 2018",
+    "harga": 135000000,
+    "foto": "https://picsum.photos/seed/mobil1/600/450",
+    "info": "2018 · 62.000 km · Manual"
+  },
+  {
+    "id": "oto-02",
+    "nama": "Honda Brio Satya E 2019",
+    "harga": 125000000,
+    "foto": "https://picsum.photos/seed/mobil2/600/450",
+    "info": "2019 · 41.000 km · Matic"
+  },
+  {
+    "id": "oto-03",
+    "nama": "Daihatsu Xenia 1.3 R 2017",
+    "harga": 105000000,
+    "foto": "https://picsum.photos/seed/mobil3/600/450",
+    "info": "2017 · 74.000 km · Manual"
+  },
+  {
+    "id": "oto-04",
+    "nama": "Honda Mobilio E 2016",
+    "harga": 115000000,
+    "foto": "https://picsum.photos/seed/mobil4/600/450",
+    "info": "2016 · 88.000 km · Matic"
+  },
+  {
+    "id": "oto-05",
+    "nama": "Toyota Agya G TRD 2019",
+    "harga": 98000000,
+    "foto": "https://picsum.photos/seed/mobil5/600/450",
+    "info": "2019 · 36.000 km · Manual"
+  },
+  {
+    "id": "oto-06",
+    "nama": "Toyota Calya G 2018",
+    "harga": 92000000,
+    "foto": "https://picsum.photos/seed/mobil6/600/450",
+    "info": "2018 · 55.000 km · Manual"
+  },
+  {
+    "id": "oto-07",
+    "nama": "Daihatsu Ayla X 2018",
+    "harga": 88000000,
+    "foto": "https://picsum.photos/seed/mobil7/600/450",
+    "info": "2018 · 49.000 km · Matic"
+  },
+  {
+    "id": "oto-08",
+    "nama": "Toyota Rush S TRD 2017",
+    "harga": 165000000,
+    "foto": "https://picsum.photos/seed/mobil8/600/450",
+    "info": "2017 · 70.000 km · Matic"
+  },
+  {
+    "id": "oto-09",
+    "nama": "Toyota Kijang Innova G 2017",
+    "harga": 245000000,
+    "foto": "https://picsum.photos/seed/mobil9/600/450",
+    "info": "2017 · 83.000 km · Diesel"
+  },
+  {
+    "id": "oto-10",
+    "nama": "Mitsubishi Xpander Ultimate 2019",
+    "harga": 190000000,
+    "foto": "https://picsum.photos/seed/mobil10/600/450",
+    "info": "2019 · 52.000 km · Matic"
+  },
+  {
+    "id": "oto-11",
+    "nama": "Honda Jazz RS 2014",
+    "harga": 150000000,
+    "foto": "https://picsum.photos/seed/mobil11/600/450",
+    "info": "2014 · 91.000 km · Matic"
+  },
+  {
+    "id": "oto-12",
+    "nama": "Suzuki Ertiga GX 2018",
+    "harga": 135000000,
+    "foto": "https://picsum.photos/seed/mobil12/600/450",
+    "info": "2018 · 60.000 km · Matic"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "fsh-01",
+    "nama": "Jaket Bomber Army Vintage",
+    "harga": 185000,
+    "foto": "https://picsum.photos/seed/baju1/600/450",
+    "info": "Size L · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-02",
+    "nama": "Kaos Band Vintage 90an",
+    "harga": 150000,
+    "foto": "https://picsum.photos/seed/baju2/600/450",
+    "info": "Size M · Kondisi 8/10"
+  },
+  {
+    "id": "fsh-03",
+    "nama": "Celana Cargo Baggy",
+    "harga": 165000,
+    "foto": "https://picsum.photos/seed/baju3/600/450",
+    "info": "Size 32 · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-04",
+    "nama": "Kemeja Flannel Kotak",
+    "harga": 95000,
+    "foto": "https://picsum.photos/seed/baju4/600/450",
+    "info": "Size L · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-05",
+    "nama": "Hoodie Zipper Polos Hitam",
+    "harga": 125000,
+    "foto": "https://picsum.photos/seed/baju5/600/450",
+    "info": "Size XL · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-06",
+    "nama": "Jaket Corduroy Coklat",
+    "harga": 175000,
+    "foto": "https://picsum.photos/seed/baju6/600/450",
+    "info": "Size M · Kondisi 8/10"
+  },
+  {
+    "id": "fsh-07",
+    "nama": "Sweater Rajut Wol",
+    "harga": 110000,
+    "foto": "https://picsum.photos/seed/baju7/600/450",
+    "info": "All size · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-08",
+    "nama": "Celana Jeans Straight Cut",
+    "harga": 145000,
+    "foto": "https://picsum.photos/seed/baju8/600/450",
+    "info": "Size 30 · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-09",
+    "nama": "Kemeja Hawaii Retro",
+    "harga": 85000,
+    "foto": "https://picsum.photos/seed/baju9/600/450",
+    "info": "Size L · Kondisi 9/10"
+  },
+  {
+    "id": "fsh-10",
+    "nama": "Jaket Coach Windbreaker",
+    "harga": 135000,
+    "foto": "https://picsum.photos/seed/baju10/600/450",
+    "info": "Size L · Kondisi 8/10"
+  },
+  {
+    "id": "fsh-11",
+    "nama": "Kaos Oversize Tie Dye",
+    "harga": 99000,
+    "foto": "https://picsum.photos/seed/baju11/600/450",
+    "info": "Size XL · Kondisi 10/10"
+  },
+  {
+    "id": "fsh-12",
+    "nama": "Rok Plisket Midi",
+    "harga": 89000,
+    "foto": "https://picsum.photos/seed/baju12/600/450",
+    "info": "Size S · Kondisi 9/10"
+  }
+]
