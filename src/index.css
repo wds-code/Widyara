@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-beton font-sans text-tinta antialiased;
+  }
+  /* Fokus keyboard tetap kelihatan */
+  a:focus-visible,
+  button:focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-tinta;
+  }
+}
+
+@layer components {
+  /* Garis-garis ala pintu rolling door garasi di atas tiap pintu */
+  .rolling-door {
+    background-image: repeating-linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.22) 0,
+      rgba(0, 0, 0, 0.22) 2px,
+      transparent 2px,
+      transparent 11px
+    );
+  }
+}
